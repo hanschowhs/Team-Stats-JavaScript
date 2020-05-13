@@ -49,3 +49,33 @@ The scorekeeper has some new information for us! Add a similar method for record
 9.
 Invoke your addGame method on three games and print the team‘s updated games array.
 
+
+Output:
+
+{ opponent: 'Real Madrid', teamPoints: 3, opponentPoints: 2 }
+
+ [ { firstName: 'Lionel', lastName: 'Messi', age: 33 },
+  { firstName: 'Cristiano', lastName: 'Ronaldo', age: 35 },
+  { firstName: 'David', lastName: 'Beckham', age: 45 } ]
+
+ [ { firstName: 'Lionel', lastName: 'Messi', age: 33 },
+  { firstName: 'Cristiano', lastName: 'Ronaldo', age: 35 },
+  { firstName: 'David', lastName: 'Beckham', age: 45 } ]
+
+ [ { firstName: 'Lionel', lastName: 'Messi', age: 33 },
+  { firstName: 'Cristiano', lastName: 'Ronaldo', age: 35 },
+  { firstName: 'David', lastName: 'Beckham', age: 45 } ]
+
+ [ { firstName: 'Lionel', lastName: 'Messi', age: 33 },
+  { firstName: 'Cristiano', lastName: 'Ronaldo', age: 35 },
+  { firstName: 'David', lastName: 'Beckham', age: 45 },
+  { firstName: 'Steph', lastName: 'Curry', age: 28 },
+  { firstName: 'Lisa', lastName: 'Leslie', age: 44 },
+  { firstName: 'Bugs', lastName: 'Bunny', age: 76 } ]
+
+ [ { opponent: 'Real Madrid', teamPoints: 3, opponentPoints: 2 },
+  { opponent: 'Barcelona', teamPoints: 1, opponentPoints: 0 },
+  { opponent: 'Liverpool', teamPoints: 5, opponentPoints: 4 },
+  { opponent: 'Man U', teamPoints: 2, opponentPoints: 5 },
+  { opponent: 'Arsenal', teamPoints: 3, opponentPoints: 1 },
+  { opponent: 'Everton', teamPoints: 4, opponentPoints: 5 } ]
