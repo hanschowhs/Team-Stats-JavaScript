@@ -22,6 +22,7 @@ You should put each player on a new line to prevent the line from getting too lo
 
 4.
 Populate the empty array that corresponds to the _games key in your object with three actual games. 
+
 5.
 Create getter methods for your _players and _games keys. You do not need to create setter methods, because we don’t want anyone to change the values saved to these keys.
 
