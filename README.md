@@ -50,7 +50,7 @@ The scorekeeper has some new information for us! Add a similar method for record
 Invoke your addGame method on three games and print the team‘s updated games array.
 
 
-Output:
+Code Output:
 
 { opponent: 'Real Madrid', teamPoints: 3, opponentPoints: 2 }
 
